@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Garrettboehmer
-- 👀 I’m interested in learning new programming languages and developing video games/
+- 👀 I’m interested in learning new programming languages and developing video games/new programs!
 - 🌱 I’m currently learning Java/Python/GDscript
 - 💞️ I’m looking to collaborate on anything that you might see that i can do better
 - 📫 How to reach me boehmergarrett@gmail.com
